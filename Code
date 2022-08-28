@@ -1,0 +1,52 @@
+<html>
+   <body leftmarign="150px">
+        <h1>Image in marquee</h1>
+           <p>
+                     <h2>Gokaraju Rangaraju Institute of Engineering & Technology</h2>
+                       Gokaraju Rangaraju Institute of Engineering and Technology (GRIET) is established in 1997 by Dr. G Gangaraju as a self-financed institute under the aegis of Gokaraju Rangaraju Educational Society. 
+GRIET is approved by AICTE, New Delhi, permanently affiliated to and autonomous under JNTUH, Hyderabad. 
+GRIET is committed to quality education and is known for its innovative teaching practices.
+
+                 </p>
+                     <hr>
+                         <marquee>
+                           <img src=" http://www.griet.ac.in/2022/NIRF%20ranking.png" width="1000px"/>
+                               <img src=" http://www.griet.ac.in/2022/NIRF%20ranking.png" width="1000px"/>
+                                    <img src=" http://www.griet.ac.in/2022/NIRF%20ranking.png" width="1000px"/>
+                                          <img src=" http://www.griet.ac.in/2022/NIRF%20ranking.png" width="1000px"/>
+                                               <img src=" http://www.griet.ac.in/2022/NIRF%20ranking.png" width="1000px"/>
+                                                             <img src=" http://www.griet.ac.in/2022/NIRF%20ranking.png" width="1000px"/>
+                             </marquee>
+                  </hr>
+     <p>
+             <h3> Vision</h3>
+To be among the best of the institutions for engineers and technologists with attitudes, skills and knowledge and to become an epicentre of creative solutions.
+
+
+<h4>Mission<h/4>
+To achieve and impart quality education with an emphasis on practical skills and social relevance.
+
+
+<h5>Quality Policy</h5>
+To provide an integrated learning environment to enable students to grow towards their full potential and meet the high expectations of the Industry and the Society.
+
+
+Strategies to translate our vision into action and accomplish our mission, we strive to
+
+provide state-of-art infrastructure.
+recruit, motivate and develop high caliber multi-speciality faculty.
+continuously review, innovate and experiment teaching methodologies and learning resources.
+focus on research, training and consultancy through an integrated institute-industry symbiosis.
+
+
+<h7>Core Values</h7>
+·Excellence: Continually strive to achieve the highest standards in education and research
+·Integrity: Sustain an atmosphere of honesty, openness, and transparency in all dealings
+· Innovation: Promote a culture of curiosity and reward originality of thought and action
+· Entrepreneurship: Promote and nurture entrepreneurial spirit among students
+· Leadership: Develop leaders with ability to find creative solutions to the problems of the industry
+· Sustainability: Conduct research that addresses critical global challenges and promote public awareness of the issues involved
+· Service to the Nation: Utilize technology for building national wealth
+   </p>
+</body>
+</thml>
